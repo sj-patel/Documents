@@ -51,3 +51,4 @@ copyright: Copyright &copy; 2022 Jay Patel
 
 plugins:
     - search
+    - techdocs-core
