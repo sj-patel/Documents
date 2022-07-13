@@ -1,3 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: example-all
+  description: A collection of all Backstage example entities, except users, groups, and templates
+spec:
+  targets:
+    - ./catalog-info.yaml
+    
 site_name: 'Example Documentation'
 repo_url: https://github.com/sj-patel/Documents
 edit_uri: ""
