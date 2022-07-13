@@ -1,11 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Documents
+  name: documented-component
+  title: Documented Component
+  description: A Service with TechDocs documentation
   annotations:
-    github.com/project-slug: sj-patel/Documents
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
-  lifecycle: unknown
-  owner: guests
+  type: service
+  lifecycle: experimental
+  owner: user:guest
