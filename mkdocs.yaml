@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
-kind: Location
+kind: Component
 metadata:
-  name: example-all
-  description: A collection of all Backstage example entities, except users, groups, and templates
+  name: Jay's Component
+  description: Sample component to be used with Documentation.
 spec:
   targets:
     - ./catalog-info.yaml
