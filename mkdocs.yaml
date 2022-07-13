@@ -1,67 +1,12 @@
-site_name: Test
-site_url: https://www.allegiantair.com/
-site_description: Project documentation with Markdown.
-site_author: Jay Patel
-
-apiVersion: backstage.io/v1alpha1
-kind: Component
-metadata:
-  name: example
-  description: example.com
-  annotations:
-    backstage.io/techdocs-ref: value
-spec:
-  type: website
-  lifecycle: production
-  owner: user:guest
-
-
-repo_url: https://github.com/sj-patel/Documents 
+site_name: 'Example Documentation'
+repo_url: https://github.com/sj-patel/Documents
 edit_uri: ""
 
-theme:
-    name: mkdocs
-    locale: en
-    analytics: {gtag: 'G-274394082'}
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - django
-
 nav:
-    - Home: index.md
-    - Getting Started: getting-started.md
-    - User Guide:
-        - Overview: user-guide/index.md
-        - Installation: user-guide/installation.md
-        - Writing Your Docs: user-guide/writing-your-docs.md
-        - Choosing Your Theme: user-guide/choosing-your-theme.md
-        - Customizing Your Theme: user-guide/customizing-your-theme.md
-        - Localizing Your Theme: user-guide/localizing-your-theme.md
-        - Configuration: user-guide/configuration.md
-        - Deploying Your Docs: user-guide/deploying-your-docs.md
-    - Developer Guide:
-        - Overview: dev-guide/index.md
-        - Themes: dev-guide/themes.md
-        - Translations: dev-guide/translations.md
-        - Plugins: dev-guide/plugins.md
-    - About:
-        - Release Notes: about/release-notes.md
-        - Contributing: about/contributing.md
-        - License: about/license.md
-
-extra_css:
-    - css/extra.css
-
-markdown_extensions:
-    - toc:
-        permalink: 
-    - admonition
-    - attr_list
-    - def_list
-
-copyright: Copyright &copy; 2022 Jay Patel
+  - Home: index.md
+  - Subpage: sub-page.md
+  - 'Code Sample': code/code-sample.md
+  - Extensions: extensions.md
 
 plugins:
-    - search
-    - techdocs-core
+  - techdocs-core
