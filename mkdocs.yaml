@@ -3,6 +3,19 @@ site_url: https://www.allegiantair.com/
 site_description: Project documentation with Markdown.
 site_author: Jay Patel
 
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example
+  description: example.com
+  annotations:
+    backstage.io/techdocs-ref: value
+spec:
+  type: website
+  lifecycle: production
+  owner: user:guest
+
+
 repo_url: https://github.com/sj-patel/Documents 
 edit_uri: ""
 
