@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "allegiant-docs"
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/sj-patel/Documents/tree/main/docs
+    backstage.io/techdocs-ref: dir:. 
   tags:
     - java
     - data
