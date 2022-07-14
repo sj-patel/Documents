@@ -1,4 +1,4 @@
-site_name: 'Allegiant IT Documentation'
+site_name: Documents 
 
 nav:
   - Home: index.md
