@@ -1,8 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: allegiant-docs
-  description: Allegiant Tech Docs
+  name: "allegiant-docs"
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/sj-patel/Documents/tree/main/docs
   tags:
