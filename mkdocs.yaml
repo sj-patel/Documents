@@ -1,5 +1,5 @@
 site_name: My Docs
-edit_uri: ""
+edit_uri: "/docs/"
 
 plugins:
   - techdocs-core
