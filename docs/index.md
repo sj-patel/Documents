@@ -41,16 +41,18 @@ You can also learn more about how to configure and setup this documentation in B
 
 * Referencing a PNG file. *
 
-![Allegiant Logo](images/Allegiant.png) { width="300" }
+![Allegiant Logo](images/Allegiant.png)
 
 * Referencing an SVG file *
 
-![Allegiant Logo](images/Allegiant.svg){ width="300" }
+![Allegiant Logo](images/Allegiant.svg)
 
 
 !!! note "Note"
     If you want to have a note call-out. There are many other ways [you can use call-outs.](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
 
+!!! danger "No Mermaid"
+    Mermaid is not yet supported. It is possible with a bit more work. Will look into it.
 
 ``` mermaid
 graph LR
