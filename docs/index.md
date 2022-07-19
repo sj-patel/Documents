@@ -41,11 +41,11 @@ You can also learn more about how to configure and setup this documentation in B
 
 * Referencing a PNG file. *
 
-![Allegiant Logo](images/Allegiant.png) { width="300" }
+![Allegiant Logo](images/Allegiant.png){ width="300" }
 
 * Referencing an SVG file *
 
-![Allegiant Logo](images/Allegiant.svg) { width="300" }
+![Allegiant Logo](images/Allegiant.svg){ width="300" }
 
 
 !!! note "Note"
