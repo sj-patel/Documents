@@ -1,4 +1,5 @@
-site_name: My Docs
+site_name: Documents
+repo_url: https://github.com/sj-patel/Documents
 edit_uri: "/docs/"
 
 plugins:
