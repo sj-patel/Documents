@@ -3,5 +3,8 @@ repo_name: 'GitHub'
 repo_url: https://github.com/sj-patel/Documents
 edit_uri: "edit/main/docs/"
 
+markdown_extensions:
+  - attr_list
+  
 plugins:
   - techdocs-core
