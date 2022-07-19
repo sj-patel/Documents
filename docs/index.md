@@ -37,15 +37,15 @@ simply create documentation.
 You can also learn more about how to configure and setup this documentation in Backstage,
 [read up on the TechDocs Overview](https://backstage.io/docs/features/techdocs/techdocs-overview).
 
-## Image Example
+## Image Example 
 
 * Referencing a PNG file. *
 
-![Allegiant Logo](images/Allegiant.png)
+![Allegiant Logo](images/Allegiant.png) { width="300" }
 
 * Referencing an SVG file *
 
-![Allegiant Logo](images/Allegiant.svg)
+![Allegiant Logo](images/Allegiant.svg) { width="300" }
 
 
 !!! note "Note"
