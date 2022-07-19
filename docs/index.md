@@ -52,6 +52,15 @@ You can also learn more about how to configure and setup this documentation in B
     If you want to have a note call-out. There are many other ways [you can use call-outs.](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
 
 
+``` mermaid
+graph LR
+  A[Start] --> B{Error?};
+  B -->|Yes| C[Hmm...];
+  C --> D[Debug];
+  D --> B;
+  B ---->|No| E[Yay!];
+```
+
 ## Table Example
 
 While this documentation isn't comprehensive, in the future it should cover the following
