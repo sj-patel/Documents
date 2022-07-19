@@ -1,6 +1,6 @@
 site_name: Documents
-repo_url: https://github.com/sj-patel/Documents
-edit_uri: "/docs/"
+repo_url: https://github.com/sj-patel
+edit_uri: ""
 
 plugins:
   - techdocs-core
