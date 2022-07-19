@@ -48,7 +48,7 @@ You can also learn more about how to configure and setup this documentation in B
 ![Allegiant Logo](images/Allegiant.svg){ width="300" }
 
 
-???+ note "Note"
+!!! note "Note"
     If you want to have a note call-out. There are many other ways [you can use call-outs.](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
 
 
