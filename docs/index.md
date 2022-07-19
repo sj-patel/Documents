@@ -41,13 +41,14 @@ You can also learn more about how to configure and setup this documentation in B
 
 * Referencing a PNG file. *
 
-![Allegiant Logo](images/Allegiant.png) { align=left,  width="300" }
+![Allegiant Logo](images/Allegiant.png) { width="300" }
 
 * Referencing an SVG file *
 
-![Allegiant Logo](images/Allegiant.svg){ align=left, width="300" }
+![Allegiant Logo](images/Allegiant.svg){ width="300" }
 
-!!! Note:
+
+??? note "Note"
     If you want to have a note call-out. There are many more ways! [you can use](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
 
 
