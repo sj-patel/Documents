@@ -39,9 +39,15 @@ You can also learn more about how to configure and setup this documentation in B
 
 ## Image Example
 
-Referencing a PNG file.
+* Referencing a PNG file. *
 
-![Backstage Logo](images/Allegiant.png)
+![Allegiant Logo](images/Allegiant.png)
+
+* Referencing an SVG file *
+
+![Allegiant Logo](images/Allegiant.svg)
+
+* In-Line SVG Image *
 
 ![svg image](data:image/svg+xml,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9
 Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVt
