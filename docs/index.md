@@ -11,7 +11,7 @@ You can see also:
 
 ## Basic Markdown
 
-Headings:
+Headings (markdown supports four levels of headings):
 
 # Hello world.
 
@@ -23,13 +23,11 @@ Headings:
 
 #### h4
 
-##### h5
-
-###### h6
 
 Here is a bulleted list:
 
 - Item one
+  - sub item
 - Item two
 - Item Three
 
