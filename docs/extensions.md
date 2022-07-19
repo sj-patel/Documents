@@ -100,7 +100,6 @@ Animals: :tiger: :horse: :turtle: :wolf: :frog:
 
 - customer
   - first_name
-    - test
   - family_name
   - email
 - person
