@@ -48,7 +48,7 @@ You can also learn more about how to configure and setup this documentation in B
 ![Allegiant Logo](images/Allegiant.svg){ align=left, width="300" }
 
 !!! Note:
-    If you want to have a note call-out. There are many more ways ![you can use](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
+    If you want to have a note call-out. There are many more ways! [you can use](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
 
 
 ## Table Example
