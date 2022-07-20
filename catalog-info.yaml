@@ -32,7 +32,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-a
+  owner: 'jay patel'
   system: artist-engagement-portal
   dependsOn: ['component:test2', 'resource:artists-db']
   apiConsumedBy: ['component:www-artist']
