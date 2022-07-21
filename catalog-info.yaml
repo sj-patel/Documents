@@ -4,7 +4,7 @@ metadata:
   name: "allegiant-docs"
   annotations:
     backstage.io/techdocs-ref: dir:. 
-    backstage.io/adr-location: dir:./docs/decisions
+    backstage.io/adr-location: docs/decisions
   tags:
     - java
     - data
