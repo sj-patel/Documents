@@ -13,15 +13,17 @@ You can see also:
 
 Headings (markdown supports four levels of headings):
 
-# Hello world.
+```# H1 Heading```: results in:
+# H1 Heading
 
-# h1
+```## H2 Heading```: results in:
+## H2 Heading
 
-## h2
+```### H3 Heading```: results in:
+### H3 Heading
 
-### h3
-
-#### h4
+```#### H4 Heading```: results in:
+#### H4 Heading
 
 
 ## Here is a bulleted list:
